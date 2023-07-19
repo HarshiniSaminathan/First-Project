@@ -1,0 +1,108 @@
+.header{
+    background-color: #3C4AED;
+    height:1000px;
+}
+header{
+    width: 100%;
+    margin:auto;
+    overflow: hidden;
+}
+#img1{
+    float:left;
+    height: 100px;
+    width: 100px;
+    margin-left: 350px;
+    margin-top: 20px;
+}
+.nav{
+    margin-top: 30px;
+    margin-left: 800px;
+    padding: 20px;
+    display: block;
+    width:100%;
+    margin-right: 300px;
+}
+.tags{
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    text-decoration: none;
+}
+#titile{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    text-align:center;
+    padding: 100px;
+}
+#info{
+    color: black;
+    font-size: 22px;
+    text-decoration: none;
+    text-align:center;
+    padding-top: 70px;
+}
+#qoute{
+    color:grey;
+    font-size: 22px;
+    text-decoration: none;
+    text-align:center;
+    padding: 40px;
+}
+.button{
+    color: #3C4AED;
+    font-size: 15px;
+    text-align: center;
+    margin-left: 70px;
+    border-radius: 50px;
+    padding:10px;
+}
+#headline{
+    color:black;
+    font-size: 22px;
+    padding: 10px;
+    margin-left: 350px;
+}
+#Para{
+    color:#454545;
+    font-size: 17px;
+    padding: 2px;
+    margin-left: 350px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: auto auto ;
+    padding: 10px;
+}
+.grid-items{
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+#Para1{
+    color:#454545;
+    font-size: 17px;
+    padding: 2px;
+    margin-top: 100px;
+    margin-left: 10px;
+}
+.grid1{
+    display: grid;
+    grid-template-columns: auto auto ;
+    padding: 10px;
+}
+#headline1{
+    color:black;
+    font-size: 22px;
+    padding: 2px;
+    margin-top: 101px;
+    margin-left: 10px;
+}
+.grid-item1{
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    width: 50%;
+    height: 70%;
+    margin-left:350px;
+}
